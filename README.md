@@ -15,7 +15,7 @@ Coral adaptation to symbiosis is captured by assuming that the temporal dynamics
 The result show that the survival range of the coral-algae symbiosis depends on the symbiont to coral biomass ratio and the cost of symbiosis. When the cost of symbiosis, then the coral-algae complex can thrive for a broad range of symbiont to host biomass ratio. This survival range narrows down as the cost of symbiosis increases. 
 
 <p align="center">
-  <img src="Survival.png" width="500">
+  <img src="Survival2.png" width="500">
 </p>
 
 # Technicalities
