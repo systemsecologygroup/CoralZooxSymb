@@ -22,13 +22,12 @@ plt.text(0.05, 0.15, r"$\displaystyle\frac{dH}{dt} = F(U,\kappa\,E, H)\,H$"
 fig.savefig('Desktop/Equations.pdf')#, transparent=True) # Change this line appropriately when saving file in another directory
 plt.show()
 """
-# Analysis of the non-dimensional model 
+# Analysis of the NON-dimensional model 
 # Parameters
-A = 0.1#0.00005
-M = 0.15
-#gamma = 20 # default
-l = 1
-SIGMA = 1
+A = 0.1 # parameter of cost of symbiosis
+M = 0.15 # corals's natural mortality
+l = 1 # this is not important here but it is 1 for consistency with the model 
+SIGMA = 1 # this is the speed of the adaptive process in the model
 
 delta = 100000  # avoid negative investements
 
