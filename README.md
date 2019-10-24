@@ -1,6 +1,6 @@
 # General description
 
-A trait-based model of coral-algae symbiosis to study the adaptation of coral-algae symbiosis. The model assumes that only the corals adapt to maintain the symbiotic relationship because corals controls the fluxes of nutrients through various processes and the algal growth is highly regulated. In the model, the algae biomass is assumed to be proportional to the coral biomass. The symbiont to coral biomass ratio (S:C) is considered as a parameter.
+A trait-based model of coral-algae symbiosis to study the adaptative dynamics of coral-algae symbiosis. The model assumes that only the corals adapt to maintain the symbiotic relationship because corals controls the fluxes of nutrients through various processes and the algal growth is highly regulated. In the model, the algae biomass is assumed to be proportional to the coral biomass. The symbiont to coral biomass ratio (S:C) is considered as a parameter.
 
 <p align="center">
   <img src="Model1.png" width="600">
